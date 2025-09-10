@@ -14,7 +14,7 @@ x<!-- ===== HEADER WITH TYPING EFFECT ===== -->
 - 💡 Passionate about **building modern web apps with great UI/UX**
 - 🎯 Strong in **HTML, CSS, JavaScript, React**
 - 📫 How to reach me: **srehanm78@gmail.com**
-- 🌐 Portfolio: <a href="#" target="_blank">Link</a>
+- 🌐 Portfolio: <a href="https://srehan0077.github.io/portfolio1/" target="_blank">Link</a>
 - ⚡ Fun fact: *I turn coffee ☕ into clean code and cool designs*  
 
 ---
@@ -36,7 +36,7 @@ x<!-- ===== HEADER WITH TYPING EFFECT ===== -->
 
 ### 🚀 Featured Projects
 - [Bike Showroom App](https://github.com/srehan0077/Unix_Showroom)  
-- [Portfolio Website](#)
+- [Portfolio Website](https://srehan0077.github.io/portfolio1/)
 
   ---
 
